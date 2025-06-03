@@ -7,7 +7,7 @@ import hashlib
 import string
 import webbrowser
 from datetime import datetime
-import pyperclip  # For copy to clipboard functionality
+import pyperclip  
 
 # Database setup with additional tables
 def setup_database():
